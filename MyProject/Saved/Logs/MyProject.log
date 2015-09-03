@@ -158,4 +158,27 @@
 [2015.09.03-08.08.00:406][749]Cmd: MAP LOAD FILE="../../../../../../Users/Terence/Desktop/Deamon/Racine/MyProject/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
 [2015.09.03-08.08.00:415][749]LightingResults: New page: Lighting Build
 [2015.09.03-08.08.00:545][749]LoadErrors: New page: Loading map: Minimal_Default.umap
-[2015.09.03-08.08.00:626][749]MapCheck: New p
+[2015.09.03-08.08.00:626][749]MapCheck: New page: Map Check
+[2015.09.03-08.08.00:627][749]LightingResults: New page: Lighting Build
+[2015.09.03-08.08.00:777][749]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000081DEFA7880
+[2015.09.03-08.08.01:356][749]LogAIModule: Creating AISystem for world Minimal_Default
+[2015.09.03-08.08.01:531][749]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.09.03-08.08.01:751][749]Cmd: MAP CHECKDEP NOCLEARLOG
+[2015.09.03-08.08.02:361][749]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 609.017ms to complete.
+[2015.09.03-08.08.02:365][749]LogFileHelpers: Loading map 'Minimal_Default' took 1.998
+[2015.09.03-08.10.15:967][118]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2015.09.03-08.10.19:352][206]LogSavePackage: Save=220.501724ms
+[2015.09.03-08.10.19:352][206]LogSavePackage: Moving '../../../../../../Users/Terence/Desktop/Deamon/Racine/MyProject/Saved/Minimal_DefaultA0828CC84950AC56C54B48A72BF2B490.tmp' to '../../../../../../Users/Terence/Desktop/Deamon/Racine/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2015.09.03-08.10.19:379][206]LogSavePackage: Total save time: 286.521815ms
+[2015.09.03-08.10.19:379][206]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/Terence/Desktop/Deamon/Racine/MyProject/Content/StarterContent/Maps/Minimal_Default.umap
+[2015.09.03-08.18.12:677][830]LogAIModule: Creating AISystem for world StarterMap
+[2015.09.03-08.18.12:684][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.P_Ambient_Dust_17.ParticleSystemComponent0
+[2015.09.03-08.18.12:782][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1.P_Fire
+[2015.09.03-08.18.12:783][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Smoke.P_Smoke Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1.P_Smoke
+[2015.09.03-08.18.12:784][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Sparks.P_Sparks Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1.Sparks
+[2015.09.03-08.18.12:784][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1.P_Steam_Lit
+[2015.09.03-08.18.12:844][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1.P_Fire
+[2015.09.03-08.18.12:845][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Fire.P_Fire Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1.P_Fire
+[2015.09.03-08.18.12:847][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Smoke.P_Smoke Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1.P_Smoke
+[2015.09.03-08.18.12:847][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Smoke.P_Smoke Component=/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1.P_Smoke
+[2015.09.03-08.18.12:849][830]LogParticles:Warning: InitializeSystem called on an unregistered component. Template=/Game/StarterContent/Particles/P_Sparks.P_Sparks Component=/Game/StarterContent/Ma
